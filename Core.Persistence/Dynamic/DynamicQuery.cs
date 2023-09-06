@@ -11,6 +11,7 @@ namespace Core.Persistence.Dynamic
         public IEnumerable<Sort>? Sort { get; set; } //sıralama:sort
         public Filter? Filter { get; set; }
 
+
         public DynamicQuery()
         {
 
